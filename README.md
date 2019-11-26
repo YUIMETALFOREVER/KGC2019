@@ -7,6 +7,7 @@ Knowledge Graph Completion Challenge 2019
  
 ２．学習用セリフデータ
 　　犯人データ　：talk_cri.txt
+  
   　非犯人データ：talk_inn.txt
 
 ３．分類器作成プログラム例
