@@ -3,6 +3,7 @@
 Knowledge Graph Completion Challenge 2019
 
 構成
+
 １．応募ドキュメント
 
 　　ナレッジグラフ推論チャレンジ２０１９.pdf
