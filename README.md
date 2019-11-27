@@ -15,7 +15,9 @@ Knowledge Graph Completion Challenge 2019
 
 ３．分類器作成プログラム例
 
-    Naive Bayes Classifier :KGC_01.jpynb
+    Naive Bayes Classifier :KGC2019_NBC.jpynb
 
 ４．「まだらの紐」トリプル
+
+　　ttl形式でダウンロードする方法が不明
     
